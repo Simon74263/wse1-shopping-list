@@ -4,6 +4,7 @@ birnen
 bananen
 bier
 kaffe
+kekse
 leberkäse
 chips
 käse
