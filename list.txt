@@ -7,4 +7,6 @@ leberkäse
 chips
 käse
 test
-
+paprika
+tomaten
+gurken
