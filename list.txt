@@ -11,3 +11,5 @@ test
 paprika
 tomaten
 gurken
+salat
+
