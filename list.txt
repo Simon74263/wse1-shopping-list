@@ -1,6 +1,7 @@
 orangen
 aepfl
 birnen
+bananen
 bier
 kaffe
 leberkäse
